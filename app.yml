@@ -1,0 +1,19 @@
+metadata:
+  favicon: ''
+  title: New module
+  description: ''
+  breakpoints: []
+  rendererCachingEnabled: true
+  skipDepsComparisonInCompilerCache: false
+  vibeAppConnectedDatasources:
+    - NYUNGWA DIGITAL TECH_4N70PZBh8w
+  chatId: '45083'
+appSettings:
+  properties:
+    defaultData: '{}'
+  actions: {}
+  gridVersion: 2
+  density: compact
+  hideRenderCachingSettings: false
+internalType: vibe_project
+id: lcFbpXHjTd
